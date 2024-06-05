@@ -1,8 +1,0 @@
-machinelearning project, which implements multiple linear regression model using car price prediction dataset. which has a good amount of preprocessing work (encoding using get dummies, data type conversion, filling missing values, etc..)
-
-steps involved
-1. Dataset loading 
-2. Dataset cleaning
-3. Data Preprocessing
-4. Model creation
-5. Visualization
